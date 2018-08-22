@@ -7,6 +7,8 @@
 **Задания**
 
 - [Task 1: Кнопка Load More](wp-task1/README.md)
+- [Task 2: шорткод iBlog](wp-task2/README.md)
+
 Решение можно прислать в виде ссылки на любой публичный git-репозиторий: GitHub, BitBucket, GitLab и т.п.
 
 Удачи!
